@@ -3,7 +3,19 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
- 
+import firebase from 'firebase';
+ // http://findmevaccine.herokuapp.com/
+ /* var config = {
+  apiKey: "",
+    authDomain: "project.firebaseapp.com",
+    projectId: "project",
+    storageBucket: "project.appspot.com",
+    messagingSenderId: "2342",
+    appId: "1:2342:web:989ce41ca9e5059e2840ed"
+};
+
+firebase.initializeApp(config);  */
+
 
 ReactDOM.render(
   <React.StrictMode>

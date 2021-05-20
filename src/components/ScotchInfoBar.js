@@ -26,8 +26,7 @@ export default function ScotchInfoBar(props) {
           borderBottom: "2px solid #40A8F3"
         }}
       >Sachin </a>
-      &nbsp;
-      
+     
       &nbsp;
       &nbsp;
        
